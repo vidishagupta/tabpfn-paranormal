@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:09,000
+Welcome to TabPFN Paranormal: IoT Poltergeist Investigator, built for the Hacktoberfest 2026 Ghost in the Machine challenge.
+
+2
+00:00:09,500 --> 00:00:19,500
+At 3:17 AM in Blackwood Manor, smart-home environmental sensors recorded an extreme thermal collapse from 21 degrees down to 9 degrees Celsius.
+
+3
+00:00:20,000 --> 00:00:30,000
+Simultaneously, magnetic field sensors surged to nearly 10 milligauss, and infrasonic resonance locked onto the 18.9 Hertz fear frequency.
+
+4
+00:00:30,500 --> 00:00:39,500
+Is this a mundane HVAC compressor failure, an electrical ground surge, or an autonomous Class-4 spectral manifestation?
+
+5
+00:00:40,000 --> 00:00:51,000
+Enter Prior Labs' TabPFN-3.5 foundation model. In a single forward pass, TabPFN evaluates multivariate Bayesian priors across all sensor channels.
+
+6
+00:00:51,500 --> 00:01:02,000
+TabPFN isolates the anomaly with a 99.8% outlier score, calculating an 84.8% probability of a spectral entity over mechanical cycling.
+
+7
+00:01:02,500 --> 00:01:14,000
+These metrics are synthesized by Google Gemma 2 running locally into a classified S.P.E.C.T.R.E. investigative field dossier with containment protocols.
+
+8
+00:01:14,500 --> 00:01:29,000
+Why does open innovation matter? Domestic sensor logs contain our most intimate private routines. By running TabPFN and Gemma 2 on local edge hardware, your home data stays 100% private and air-gapped.
+

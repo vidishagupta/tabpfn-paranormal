@@ -37,3 +37,7 @@ ENV/
 
 # Streamlit secrets
 .streamlit/secrets.toml
+
+# Cloudflare binary
+cloudflared.exe
+*.exe

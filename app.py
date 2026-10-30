@@ -439,7 +439,9 @@ canonical_url: https://github.com/vidishagupta/tabpfn-paranormal
 Using **Prior Labs' TabPFN-3.5 tabular foundation model**, the system evaluates multivariate Bayesian prior distributions to distinguish between mundane mechanical failures (like an HVAC compressor defrost cycle or an electrical ground loop) and genuine Class-IV spectral anomalies. It then pairs with **Google Gemma 2 (running locally via Ollama)** to generate classified S.P.E.C.T.R.E. forensic field dossiers.
 
 ## Demo
+- **Live Public Web App:** [https://clip-amendments-staying-sleep.trycloudflare.com](https://clip-amendments-staying-sleep.trycloudflare.com)
 - **Source Code & GitHub Repository:** [https://github.com/vidishagupta/tabpfn-paranormal](https://github.com/vidishagupta/tabpfn-paranormal)
+- **Cinematic Demo Video:** [Watch Video (MP4)](https://github.com/vidishagupta/tabpfn-paranormal/blob/main/tabpfn_paranormal_demo.mp4)
 
 ![TabPFN Paranormal Dashboard](https://raw.githubusercontent.com/your-username/tabpfn-paranormal/main/assets/demo.png)
 

@@ -9,7 +9,12 @@ Powered by **Prior Labs' TabPFN-3.5 foundation model** and **Local Open LLMs (Go
 
 ---
 
-## 🌟 Key Features
+## 🌐 Live Public Deployment
+- **Live Global Demo (Zero Installation):** **[https://clip-amendments-staying-sleep.trycloudflare.com](https://clip-amendments-staying-sleep.trycloudflare.com)**
+- **GitHub Repository:** **[https://github.com/vidishagupta/tabpfn-paranormal](https://github.com/vidishagupta/tabpfn-paranormal)**
+- **Video Demo Walkthrough:** [`tabpfn_paranormal_demo.mp4`](https://github.com/vidishagupta/tabpfn-paranormal/blob/main/tabpfn_paranormal_demo.mp4)
+
+---
 
 1. **Prior Labs TabPFN Bayesian Inference Engine:**
    - Evaluates multi-channel tabular telemetry in a single forward pass without hyperparameter tuning.

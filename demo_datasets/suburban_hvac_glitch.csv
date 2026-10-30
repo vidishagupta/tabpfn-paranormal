@@ -1,0 +1,10 @@
+timestamp,room,ambient_temp_c,emf_milligauss,acoustic_db,circuit_wattage,pir_motion_detected,infrasound_hz,ground_vibration_mm
+2026-10-31 02:00:00,Basement Utility,19.5,0.8,42.0,150.0,0,4.1,0.01
+2026-10-31 02:15:00,Basement Utility,19.4,0.9,41.8,148.0,0,4.0,0.01
+2026-10-31 02:30:00,Basement Utility,19.3,0.8,42.2,152.0,0,4.2,0.01
+2026-10-31 02:45:00,Basement Utility,17.1,1.8,58.4,1850.0,0,58.2,0.15
+2026-10-31 03:00:00,Basement Utility,16.2,1.9,59.0,1860.0,0,59.1,0.14
+2026-10-31 03:15:00,Basement Utility,16.0,1.7,58.1,1840.0,0,58.8,0.13
+2026-10-31 03:30:00,Basement Utility,18.5,1.0,44.0,160.0,0,5.2,0.02
+2026-10-31 03:45:00,Basement Utility,19.2,0.9,42.5,153.0,0,4.3,0.01
+2026-10-31 04:00:00,Basement Utility,19.4,0.8,42.1,150.0,0,4.1,0.01

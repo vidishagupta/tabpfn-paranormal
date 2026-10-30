@@ -54,7 +54,7 @@ graph TD
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone https://github.com/your-username/tabpfn-paranormal.git
+git clone https://github.com/vidishagupta/tabpfn-paranormal.git
 cd tabpfn-paranormal
 
 # Install requirements

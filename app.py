@@ -428,8 +428,7 @@ if df is not None:
 title: TabPFN Paranormal: Investigating the Ghost in the Smart-Home Machine
 published: true
 tags: devchallenge, hf26challenge, tabpfn, opensource
-cover_image: https://raw.githubusercontent.com/your-username/tabpfn-paranormal/main/assets/cover.png
-canonical_url: https://github.com/your-username/tabpfn-paranormal
+canonical_url: https://github.com/vidishagupta/tabpfn-paranormal
 ---
 
 *This is a submission for the [Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine](https://dev.to/challenges/hacktoberfest-week4-2026-10-26)*
@@ -440,8 +439,7 @@ canonical_url: https://github.com/your-username/tabpfn-paranormal
 Using **Prior Labs' TabPFN-3.5 tabular foundation model**, the system evaluates multivariate Bayesian prior distributions to distinguish between mundane mechanical failures (like an HVAC compressor defrost cycle or an electrical ground loop) and genuine Class-IV spectral anomalies. It then pairs with **Google Gemma 2 (running locally via Ollama)** to generate classified S.P.E.C.T.R.E. forensic field dossiers.
 
 ## Demo
-- **Live Interactive App:** [Link to your Render / Streamlit deployment]
-- **Source Code:** [GitHub Repository](https://github.com/your-username/tabpfn-paranormal)
+- **Source Code & GitHub Repository:** [https://github.com/vidishagupta/tabpfn-paranormal](https://github.com/vidishagupta/tabpfn-paranormal)
 
 ![TabPFN Paranormal Dashboard](https://raw.githubusercontent.com/your-username/tabpfn-paranormal/main/assets/demo.png)
 
